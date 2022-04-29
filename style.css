@@ -55,7 +55,7 @@ pl {
   display: block;
   margin-left: auto;
   margin-right: auto;
-  width: 50%;
+  max-height=400px; 
 }
 
 a:link    { color: green;  }
