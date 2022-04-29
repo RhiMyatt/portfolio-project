@@ -40,11 +40,12 @@ ul, pl {
 
 ul {
   text-align: center;
+  list-style-position: inside;
 }
 
 pl {
   text-align: left;
-}
+  }
 
 .center {
   display: block;
