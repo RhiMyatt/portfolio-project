@@ -34,13 +34,16 @@ h1, h2, h3 {
 
 ul, pl {
   color: black;
-  text-align: left;
   font-size: 20px;
   font-family: Arial;
     }
 
 ul {
   text-align: center;
+}
+
+pl {
+  text-align: left;
 }
 
 .center {
